@@ -21,3 +21,13 @@ You can find screenshots of the app in the file "TaskManager_Screenshots.pdf". I
 - An AI-generated schedule.
 - Task details and settings.
 - Dark mode in action.
+
+<img src="Screenshots/MainScreen_ListView.png" width="400">
+<img src="Screenshots/MainScreen_GridView1.png" width="400">
+<img src="Screenshots/MainScreen_GridView2.png" width="400">
+<img src="Screenshots/AiSchedule.png" width="400">
+<img src="Screenshots/AiSchedule2.png" width="400">
+<img src="Screenshots/SettingsLightMode.png" width="400">
+<img src="Screenshots/SettingsDarkMode.png" width="400">
+<img src="Screenshots/AddingATaskScreen.png" width="400">
+<img src="Screenshots/TaskScreen.png" width="400">
